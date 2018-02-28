@@ -1,0 +1,2 @@
+O site deverá cadastrar qualquer profissional que deseje registrar seus serviços. o site também deverá cadastrar os clientes, 
+e eles poderam contratar os serviços cadastrados pelos profissionais. assim podendo avalia e comentar sobre os  serviços prestados pelo funcionario contratado. o funcionario só podera ser avaliado pelos clientes que o contrataram. 
